@@ -13,3 +13,7 @@ body{font-family:"Courier New",Courier,monospace;background-color:#ccc;color:#00
     max-width: 24px;
     max-height: 24px;
 }
+
+#quickMenu {
+    width: 70%;
+}
