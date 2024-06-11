@@ -315,4 +315,7 @@ h4 img {
         min-height: 54px;
     }
   }
-  
+
+.btn-bbf{
+    min-height: 0px;
+}
